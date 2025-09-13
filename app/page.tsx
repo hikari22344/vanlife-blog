@@ -63,7 +63,7 @@ const blogPosts = [
     date: "2024-01-05",
     location: "九州各地",
     image: "/gallery-image-3.png", // 実際の画像パスに更新
-    tags: ["温泉", "九州", "秘湯"],
+    tags: ["温泉", "九州"],
     link: "/blog/kyushu-onsen", // 実際の記事スラッグに更新
   }
 ]
