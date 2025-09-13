@@ -56,6 +56,16 @@ const blogPosts = [
     tags: ["温泉", "九州", "秘湯"],
     link: "/blog/kyushu-onsen", // 実際の記事スラッグに更新
   },
+  {
+    id: 4,
+    title: "九州温泉巡りの旅 - 秘湯発見記",
+    excerpt: "九州の隠れた名湯を求めて山奥へ。地元の人だけが知る秘湯で心も体もリフレッシュできました。",
+    date: "2024-01-05",
+    location: "九州各地",
+    image: "/gallery-image-3.png", // 実際の画像パスに更新
+    tags: ["温泉", "九州", "秘湯"],
+    link: "/blog/kyushu-onsen", // 実際の記事スラッグに更新
+  }
 ]
 
 // Instagram投稿データ（新しい写真を追加）
