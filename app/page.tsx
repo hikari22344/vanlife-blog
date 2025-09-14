@@ -188,7 +188,7 @@ export default function VanLifeBlog() {
                 </div>
                 <h2 className="text-4xl md:text-5xl font-extrabold text-vanlife-brown-700 mb-4">旅日記</h2>
                 <p className="text-vanlife-brown-600 max-w-2xl mx-auto text-lg">
-                  まるで夢の中をめぐるように。季節をめぐり、人をめぐり、風景をめぐる。バンライフの日々で出会った美しい瞬間と心温まる交流を綴っています。
+                  まるで夢の中をめぐるように。季節をめぐり、人をめぐり、風景をめぐる。バンライフの日々で出会った美しい瞬間と心温まる交流を綴っています。よろしく。
                 </p>
               </div>
 
